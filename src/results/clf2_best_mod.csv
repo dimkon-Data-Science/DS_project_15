@@ -1,0 +1,5 @@
+model,test_score,train_score,time,params
+SVC,0.8052,0.80243,954.339,"{'kernel': 'linear', 'gamma': 'auto', 'C': 100.0}"
+LogisticRegression,0.80436,0.80278,28.183,"{'solver': 'saga', 'penalty': 'l2', 'max_iter': 762, 'fit_intercept': True, 'class_weight': None, 'C': 0.1}"
+GradientBoostingClassifier,0.80408,0.8026,112.111,"{'n_estimators': 50, 'min_samples_split': 2, 'min_samples_leaf': 25, 'max_depth': 15, 'learning_rate': 0.021544346900318832}"
+AdaBoostClassifier,0.80324,0.80225,18.554,"{'n_estimators': 50, 'learning_rate': 0.001, 'algorithm': 'SAMME.R'}"

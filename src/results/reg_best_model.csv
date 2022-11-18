@@ -1,0 +1,5 @@
+model,test_score,train_score,time,params
+BayesianRidge,-1.24983,-1.26307,7.978,"{'verbose': False, 'normalize': False, 'n_iter': 500, 'fit_intercept': True, 'copy_X': True, 'compute_score': True}"
+RidgeCV,-1.25001,-1.26528,6.14,"{'normalize': True, 'fit_intercept': True, 'alphas': 0.4999999999999998}"
+LarsCV,-1.25115,-1.2627,8.212,"{'normalize': False, 'max_n_alphas': 1200, 'max_iter': 400, 'fit_intercept': True, 'cv': 8}"
+GradientBoostingRegressor,-1.25239,-1.26911,69.111,"{'n_estimators': 50, 'min_samples_split': 15, 'min_samples_leaf': 8, 'max_depth': 20, 'learning_rate': 0.021544346900318832}"

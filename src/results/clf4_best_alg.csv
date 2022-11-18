@@ -1,0 +1,12 @@
+model,test_score,train_score,time,params
+ExtraTreesClassifier,0.77831,0.97673,35.644,{}
+RandomForestClassifier,0.75978,0.96745,24.352,{}
+MLPClassifier,0.72752,0.94422,149.005,{}
+BaggingClassifier,0.6884,0.92714,27.529,{}
+DecisionTreeClassifier,0.6534,0.91042,4.286,{}
+LinearDiscriminantAnalysis,0.47392,0.56464,6.019,{}
+GradientBoostingClassifier,0.47289,0.58636,72.626,{}
+LogisticRegression,0.46294,0.57385,7.101,{}
+RidgeClassifier,0.45642,0.56709,1.198,{}
+KNeighborsClassifier,0.43377,0.79584,4.684,{}
+AdaBoostClassifier,0.36582,0.46014,11.55,{}

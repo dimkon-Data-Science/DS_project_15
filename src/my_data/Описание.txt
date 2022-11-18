@@ -1,0 +1,19 @@
+В этой папке собраны данные найденные мной для реализации проекта. 
+
+Отправная точка поиска:
+----------------------------------
+API указанный в задании, так как данные с этого ресурса являются эталонными.
+https://fdc.nal.usda.gov/api-guide.html
+
+
+Типы данных API
+----------------------------------
+https://fdc.nal.usda.gov/data-documentation.html
+
+
+Ссылка на список ингредиентов. Указана в описании к API.
+----------------------------------
+https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds-download-databases/
+
+По этой ссылке можно скачать файлы с разными данными об ингредиентах.
+

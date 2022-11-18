@@ -1,0 +1,12 @@
+model,test_score,train_score,time,params
+LarsCV,0.08891,0.11096,3.577,{}
+BayesianRidge,0.08641,0.12195,1.803,{}
+RidgeCV,0.08467,0.11878,1.894,{}
+GradientBoostingRegressor,0.08231,0.10766,9.92,{}
+Ridge,0.07933,0.10498,0.359,{}
+Lasso,-0.0,-0.00044,0.344,{}
+ElasticNet,-0.0,-0.00044,0.315,{}
+LinearSVR,-0.0336,0.00551,0.424,{}
+RandomForestRegressor,-0.04012,0.0071,136.664,{}
+KNeighborsRegressor,-0.1971,-0.15422,0.925,{}
+DecisionTreeRegressor,-0.72242,-0.81462,2.435,{}

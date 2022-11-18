@@ -1,0 +1,4 @@
+model,test_score,train_score,time,params
+StackingRegressor,-1.24597,-1.2589,156.858,"{'final_estimator': RidgeCV(), 'cv': KFold(n_splits=2, random_state=None, shuffle=False)}"
+VotingRegressor,-1.24734,-1.2598,16.241,"{'weights': [3, 4, 1, 2]}"
+BaggingRegressor,-1.25021,-1.26361,128.847,"{'n_estimators': 49, 'base_estimator': RidgeCV()}"

@@ -1,0 +1,5 @@
+model,test_score,train_score,time,params
+SVC,0.68418,0.68041,1259.024,"{'kernel': 'rbf', 'gamma': 'scale', 'C': 1.0}"
+LogisticRegression,0.68139,0.67849,111.543,"{'solver': 'saga', 'penalty': 'l2', 'max_iter': 287, 'fit_intercept': True, 'class_weight': None, 'C': 0.21544346900318834}"
+GradientBoostingClassifier,0.67943,0.67622,343.273,"{'n_estimators': 125, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 1, 'learning_rate': 0.46415888336127775}"
+RidgeClassifier,0.67859,0.67831,1.142,"{'tol': 0.0004641588833612782, 'positive': False, 'normalize': True, 'max_iter': 10000, 'fit_intercept': False, 'copy_X': False, 'class_weight': None, 'alpha': 1.0}"

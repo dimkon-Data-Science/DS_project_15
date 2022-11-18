@@ -1,0 +1,4 @@
+model,test_score,train_score,time,params
+StackingClassifier,0.79325,0.99451,389.424,"{'final_estimator': RandomForestClassifier(), 'cv': StratifiedKFold(n_splits=5, random_state=21, shuffle=True)}"
+BaggingClassifier,0.78171,0.98983,3513.131,"{'n_estimators': 100, 'bootstrap': False, 'bootstrap_features': True}"
+VotingClassifier,0.75975,0.9824,230.268,"{'weights': [3, 2, 1]}"
